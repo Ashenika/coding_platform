@@ -1,1 +1,1 @@
-packages=['tests']
+packages = ['src/tests', 'src']

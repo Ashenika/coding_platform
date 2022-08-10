@@ -1,8 +1,8 @@
-name: Python package - pytest and unittest
+name: Python package - pytest
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "main","test-github" ]
   pull_request:
     branches: [ "main" ]
 
