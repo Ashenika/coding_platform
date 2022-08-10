@@ -4,8 +4,8 @@
 
  The following command is needed to test. 
  
- It will consider files start with `test_` naming convention which is inside `./tests` directory.
+ It will consider files start with `test_` naming convention which is inside `./src/tests` directory.
  
- `python -m unittest discover -s ./tests  -p 'test_*.py'`
+ `python -m unittest discover -s ./src/tests  -p 'test_*.py'`
  
  
