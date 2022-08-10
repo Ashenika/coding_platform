@@ -1,4 +1,4 @@
-name: Python package - pytest and unittest
+name: Python package - pytest
 
 on:
   push:
